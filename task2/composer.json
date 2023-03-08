@@ -1,0 +1,18 @@
+{
+    "name": "saurabh/task2",
+    "description": "send mail using php mailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Saurabh\\Task2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saurabhIR",
+            "email": "saurabh.kumawat@innoraft.com"
+        }
+    ]
+}
