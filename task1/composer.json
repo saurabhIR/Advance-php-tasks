@@ -1,0 +1,14 @@
+{
+    "name": "saurabh/html",
+    "description": "fetch api using guzzleHTTP",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "authors": [
+        {
+            "name": "saurabhIR",
+            "email": "saurabh.kumawat@innoraft.com"
+        }
+    ]
+}
